@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=4C8BF5&center=true&vCenter=true&width=850&lines=Hi,+I'm+Seo+Jong+Ho;JBNU+CS+%26+AI;Physical+AI+%26+LLM;Do+not+expect+today+to+return" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=4C8BF5&center=true&vCenter=true&width=850&lines=Hi,+I'm+JongHo+Seo;JBNU+CS+%26+AI;Physical+AI+%26+LLM;Do+not+expect+today+to+return" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,7 +13,7 @@
   <a href="https://solved.ac/profile/whdgh9173">
     <img src="https://img.shields.io/badge/Solved.ac-whdgh9173-A680FF?style=for-the-badge&logo=solved.ac&logoColor=white&labelColor=17CE3A"/>
   </a>
-  <a href="mailto:seojh9173@gmail.com">
+  <a href="mailto:본인의_이메일_주소_입력">
     <img src="https://img.shields.io/badge/Email-Contact_Me-FCC624?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
   </a>
 </p>
@@ -27,6 +27,12 @@
     🤖 Interested in <b>Physical AI</b> & <b>LLM</b><br/>
     🧩 Hobby: <b>Solving Algorithm Problems</b>
   </p>
+</div>
+
+<div align="center">
+  <a href="https://wttr.in/Jeonju">
+    <img src="https://wttr.in/Jeonju_0tqp_lang=en.png" height="80" alt="Weather in Jeonju"/>
+  </a>
 </div>
 
 <br/>
