@@ -1,60 +1,97 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=atmigtnca&fontSize=70)
+<div align="center">
 
-<div align="left"> <h3>👋 Hello, World!</h3>
-  <ul>
-    <li>🔭 I’m interested in <b>System Programming (C/C++, Rust)</b> and <b>AI/ML</b>.</li>
-    <li>🌱 I’m currently learning <b>Go language</b> and <b>Advanced Algorithms</b>.</li>
-    <li>🎯 <b>Problem Solving</b> updates:</li>
-  </ul>
-</div>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=4C8BF5&center=true&vCenter=true&width=435&lines=Hi,+I'm+atmigtnca;System+Programmer;AI+%2F+ML+Researcher;Problem+Solver" alt="Typing SVG" />
+</a>
 
-<div align="left">
+<br/>
+
+<p>
+  <a href="https://github.com/atmigtnca">
+    <img src="https://img.shields.io/badge/GitHub-atmigtnca-4C8BF5?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  </a>
   <a href="https://codeforces.com/profile/atmigtnca">
-    <img src="https://img.shields.io/codeforces/rating/atmigtnca?style=flat-square&logo=codeforces&logoColor=white&label=Codeforces" alt="Codeforces Rating"/>
+    <img src="https://img.shields.io/badge/Codeforces-atmigtnca-4FE3C1?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F8ACB"/>
   </a>
   <a href="https://solved.ac/profile/whdgh9173">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdgh9173" height="20px" alt="Solved.ac Tier"/>
+    <img src="https://img.shields.io/badge/Solved.ac-whdgh9173-A680FF?style=for-the-badge&logo=solved.ac&logoColor=white&labelColor=17CE3A"/>
   </a>
+</p>
+
+<br/>
+
+<div align="center" style="max-width: 600px;">
+  <h3>🚀 About Me</h3>
+  <p>
+    ⚡ <b>System Programming</b> (C, C++, Rust) & <b>Optimization</b><br/>
+    🧠 <b>AI/ML Enthusiast</b> focusing on Data & Algorithms<br/>
+    🎨 <b>Creative Developer</b> with Video Editing skills
+  </p>
 </div>
 
 <br/>
 
-### 🛠 Tech Stack
-<div align="left"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-  <br/>
+---
 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-  <br/>
+## 🧩 Algorithm Intelligence
 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <br/>
+<p align="center">
+  <a href="https://solved.ac/profile/whdgh9173">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdgh9173" height="170"/>
+  </a>
+  <a href="https://codeforces.com/profile/atmigtnca">
+    <img src="https://img.shields.io/codeforces/rating/atmigtnca?style=for-the-badge&logo=codeforces&logoColor=white&label=Codeforces&color=1F8ACB" height="40"/>
+  </a>
+</p>
 
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
-  <br/>
+---
 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Final_Cut_Pro-000000?style=flat-square&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat-square&logo=adobe%20premiere%20pro&logoColor=white"/>
-</div>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atmigtnca&show_icons=true&title_color=4C8BF5&text_color=333333&icon_color=4FE3C1&bg_color=F7F9FC&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmigtnca&layout=compact&title_color=4C8BF5&text_color=333333&bg_color=F7F9FC&hide_border=true" height="150" />
+</p>
+
+---
+
+## 🛠️ Technical Arsenal
+
+### ⚡ Languages
+<p>
+  <img src="https://img.shields.io/badge/C-F7F9FC?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/C++-F7F9FC?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/Rust-F7F9FC?style=for-the-badge&logo=rust&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Go-F7F9FC?style=for-the-badge&logo=go&logoColor=00ADD8"/>
+  <img src="https://img.shields.io/badge/Python-F7F9FC?style=for-the-badge&logo=python&logoColor=3776AB"/>
+</p>
+
+### 🧠 AI & Data
+<p>
+  <img src="https://img.shields.io/badge/Pandas-F7F9FC?style=for-the-badge&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F7F9FC?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
+</p>
+
+### 🖥️ Environment & Tools
+<p>
+  <img src="https://img.shields.io/badge/Linux-F7F9FC?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Git-F7F9FC?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-F7F9FC?style=for-the-badge&logo=github&logoColor=181717"/>
+</p>
+
+### 🎨 Creative & Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Figma-F7F9FC?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/Notion-F7F9FC?style=for-the-badge&logo=notion&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Slack-F7F9FC?style=for-the-badge&logo=slack&logoColor=4A154B"/>
+  <img src="https://img.shields.io/badge/Final_Cut_Pro-F7F9FC?style=for-the-badge&logo=apple&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-F7F9FC?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=9999FF"/>
+</p>
 
 <br/>
 
-### 📊 Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=atmigtnca&show_icons=true&theme=radical&hide_title=true" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmigtnca&layout=compact&theme=radical&hide_title=true" height="150px">
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=atmigtnca&color=4C8BF5&style=flat-square&label=Views" alt="hits">
 </div>
 
-<br/>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=atmigtnca&color=blueviolet" alt="hits">
 </div>
