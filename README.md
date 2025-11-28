@@ -13,7 +13,7 @@
   <a href="https://solved.ac/profile/whdgh9173">
     <img src="https://img.shields.io/badge/Solved.ac-whdgh9173-A680FF?style=for-the-badge&logo=solved.ac&logoColor=white&labelColor=17CE3A"/>
   </a>
-  <a href="mailto:본인의_이메일_주소_입력">
+  <a href="mailto:seojh9173@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-FCC624?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
   </a>
 </p>
