@@ -1,11 +1,8 @@
 name: Generate Snake
 
 on:
-  # 매일 밤 12시에 자동으로 실행 (커밋 반영)
   schedule:
     - cron: "0 0 * * *"
-  
-  # 수동으로도 실행 가능하게 설정
   workflow_dispatch:
 
 jobs:
@@ -14,7 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      # 뱀 애니메이션 생성 (v3 버전 사용)
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -23,12 +19,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # 여기가 핵심! 아까 만든 GH_TOKEN을 사용하도록 변경
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # 생성된 파일을 'output' 브랜치에 업로드
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
+          # 배포(Push)는 기본 토큰으로 해도 됨
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
