@@ -26,15 +26,6 @@
   </p>
 </div>
 
-<div align="center">
-  <br/>
-  <a href="https://wttr.in/Jeonju">
-    <img src="https://wttr.in/Jeonju.png?m&0" height="100" alt="Weather in Jeonju"/>
-  </a>
-  <br/><br/>
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=F7F9FC&borderColor=4C8BF5&textColor=333333" width="500" alt="Jokes Card" />
-</div>
-
 <br/>
 
 ---
