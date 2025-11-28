@@ -15,17 +15,15 @@ jobs:
         id: snake-gif
         with:
           github_user_name: atmigtnca
+          # 여기가 수정됨: 봇한테 토큰을 직접 쥐여줌
+          github_token: ${{ secrets.GH_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          # 여기가 핵심! 아까 만든 GH_TOKEN을 사용하도록 변경
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          # 배포(Push)는 기본 토큰으로 해도 됨
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
