@@ -7,9 +7,6 @@
 <br/>
 
 <p>
-  <a href="https://github.com/atmigtnca">
-    <img src="https://img.shields.io/badge/GitHub-atmigtnca-4C8BF5?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-  </a>
   <a href="https://solved.ac/profile/whdgh9173">
     <img src="https://img.shields.io/badge/Solved.ac-whdgh9173-A680FF?style=for-the-badge&logo=solved.ac&logoColor=white&labelColor=17CE3A"/>
   </a>
@@ -30,9 +27,12 @@
 </div>
 
 <div align="center">
+  <br/>
   <a href="https://wttr.in/Jeonju">
-    <img src="https://wttr.in/Jeonju_0tqp_lang=en.png" height="80" alt="Weather in Jeonju"/>
+    <img src="https://wttr.in/Jeonju.png?m&0" height="100" alt="Weather in Jeonju"/>
   </a>
+  <br/><br/>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=F7F9FC&borderColor=4C8BF5&textColor=333333" width="500" alt="Jokes Card" />
 </div>
 
 <br/>
@@ -54,10 +54,15 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=atmigtnca&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+  <br/><br/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=atmigtnca&show_icons=true&title_color=4C8BF5&text_color=333333&icon_color=4FE3C1&bg_color=F7F9FC&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmigtnca&layout=compact&title_color=4C8BF5&text_color=333333&bg_color=F7F9FC&hide_border=true" height="150" />
-</p>
+</div>
 
 ---
 
