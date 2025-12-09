@@ -13,7 +13,7 @@
   <a href="https://solved.ac/profile/whdgh9173">
     <img src="https://img.shields.io/badge/Solved.ac-whdgh9173-A680FF?style=for-the-badge&logo=solved.ac&logoColor=white&labelColor=17CE3A"/>
   </a>
-  <a href="mailto:본인의_이메일_주소_입력">
+  <a href="mailto:whdgh9173@jbnu.ac.kr">
     <img src="https://img.shields.io/badge/Email-Contact_Me-FCC624?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
   </a>
 </div>
@@ -41,21 +41,6 @@
   <a href="https://solved.ac/profile/whdgh9173">
     <img src="http://mazandi.herokuapp.com/api?handle=whdgh9173&theme=warm" height="170"/>
   </a>
-</div>
-
-<br/>
-<hr/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=atmigtnca&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=atmigtnca&show_icons=true&title_color=4C8BF5&text_color=333333&icon_color=4FE3C1&bg_color=F7F9FC&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmigtnca&layout=compact&title_color=4C8BF5&text_color=333333&bg_color=F7F9FC&hide_border=true" height="150" />
 </div>
 
 <br/>
