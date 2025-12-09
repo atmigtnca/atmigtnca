@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=4C8BF5&center=true&vCenter=true&width=850&lines=Hi,+I'm+JongHo+Seo;JBNU+CS+%26+AI;Physical+AI+%26+LLM;Do+not+expect+today+to+return" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=4C8BF5&center=true&vCenter=true&width=850&lines=Hi,+I'm+JongHo+Seo;JBNU+CS+%26+AI;OS+%26+Cloud+Computing;Do+not+expect+today+to+return" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@
   <h3>🚀 About Me</h3>
   <p>
     🎓 <b>JBNU Computer Science & Artificial Intelligence</b><br/>
-    🤖 Interested in <b>Physical AI</b> & <b>LLM</b><br/>
+    🤖 Interested in <b>Operating Systems</b> & <b>Cloud Computing</b><br/>
     🧩 Hobby: <b>Solving Algorithm Problems</b>
   </p>
 </div>
@@ -70,7 +70,6 @@
   <img src="https://img.shields.io/badge/C-F7F9FC?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
   <img src="https://img.shields.io/badge/C++-F7F9FC?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/Rust-F7F9FC?style=for-the-badge&logo=rust&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Go-F7F9FC?style=for-the-badge&logo=go&logoColor=00ADD8"/>
   <img src="https://img.shields.io/badge/Python-F7F9FC?style=for-the-badge&logo=python&logoColor=3776AB"/>
 </p>
 
