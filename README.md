@@ -46,6 +46,20 @@
 <br/>
 <hr/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atmigtnca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4C8BF5&icon_color=4C8BF5&text_color=c9d1d9" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmigtnca&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4C8BF5&text_color=c9d1d9" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atmigtnca&theme=tokyonight&hide_border=true&background=1a1b27&ring=4C8BF5&fire=4C8BF5&currStreakLabel=4C8BF5" height="180"/>
+</div>
+
+<br/>
+<hr/>
+
 ## 🛠️ Technical Arsenal
 
 <div align="center">
