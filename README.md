@@ -77,13 +77,14 @@
   <img src="https://img.shields.io/badge/Gemini-F7F9FC?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
   <img src="https://img.shields.io/badge/Claude-F7F9FC?style=for-the-badge&logo=anthropic&logoColor=CC9B7A"/>
   <img src="https://img.shields.io/badge/Grok-F7F9FC?style=for-the-badge&logo=x&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Perplexity-F7F9FC?style=for-the-badge&logo=perplexity&logoColor=1FB8CD"/>
+  <img src="https://img.shields.io/badge/GLM-F7F9FC?style=for-the-badge&logo=zhipu&logoColor=4285F4"/>
 </p>
 
 ### 🛠️ AI Tool
 <p>
   <img src="https://img.shields.io/badge/Cursor-F7F9FC?style=for-the-badge&logo=cursor&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Claude_Code-F7F9FC?style=for-the-badge&logo=anthropic&logoColor=CC9B7A"/>
+  <img src="https://img.shields.io/badge/Perplexity-F7F9FC?style=for-the-badge&logo=perplexity&logoColor=1FB8CD"/>
   <img src="https://img.shields.io/badge/Google_Antigravity-F7F9FC?style=for-the-badge&logo=google&logoColor=4285F4"/>
   <img src="https://img.shields.io/badge/NotebookLM-F7F9FC?style=for-the-badge&logo=google&logoColor=4285F4"/>
   <img src="https://img.shields.io/badge/Codex-F7F9FC?style=for-the-badge&logo=openai&logoColor=412991"/>
@@ -113,7 +114,6 @@
 <p>
   <img src="https://img.shields.io/badge/Figma-F7F9FC?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
   <img src="https://img.shields.io/badge/Notion-F7F9FC?style=for-the-badge&logo=notion&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Slack-F7F9FC?style=for-the-badge&logo=slack&logoColor=4A154B"/>
   <img src="https://img.shields.io/badge/Final_Cut_Pro-F7F9FC?style=for-the-badge&logo=apple&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Premiere_Pro-F7F9FC?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=9999FF"/>
 </p>
