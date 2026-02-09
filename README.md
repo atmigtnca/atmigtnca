@@ -7,11 +7,11 @@
 <br/>
 
 <div align="center">
-  <a href="https://codeforces.com/profile/atmigtnca">
-    <img src="https://img.shields.io/badge/Codeforces-atmigtnca-4FE3C1?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F8ACB"/>
-  </a>
   <a href="https://solved.ac/profile/whdgh9173">
     <img src="https://img.shields.io/badge/Solved.ac-whdgh9173-A680FF?style=for-the-badge&logo=solved.ac&logoColor=white&labelColor=17CE3A"/>
+  </a>
+  <a href="https://huggingface.co/atmigtnca">
+    <img src="https://img.shields.io/badge/Hugging_Face-atmigtnca-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=FFD21E"/>
   </a>
   <a href="mailto:whdgh9173@jbnu.ac.kr">
     <img src="https://img.shields.io/badge/Email-Contact_Me-FCC624?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
@@ -32,7 +32,7 @@
 <br/>
 <hr/>
 
-## 🧩 Algorithm Intelligence
+## 🧩 Problem Solving
 
 <div align="center">
   <a href="https://solved.ac/profile/whdgh9173">
@@ -68,19 +68,43 @@
 <p>
   <img src="https://img.shields.io/badge/C-F7F9FC?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
   <img src="https://img.shields.io/badge/C++-F7F9FC?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/Rust-F7F9FC?style=for-the-badge&logo=rust&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Python-F7F9FC?style=for-the-badge&logo=python&logoColor=3776AB"/>
+</p>
+
+### 🤖 AI Model
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-F7F9FC?style=for-the-badge&logo=openai&logoColor=412991"/>
+  <img src="https://img.shields.io/badge/Gemini-F7F9FC?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
+  <img src="https://img.shields.io/badge/Claude-F7F9FC?style=for-the-badge&logo=anthropic&logoColor=CC9B7A"/>
+  <img src="https://img.shields.io/badge/Grok-F7F9FC?style=for-the-badge&logo=x&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Perplexity-F7F9FC?style=for-the-badge&logo=perplexity&logoColor=1FB8CD"/>
+</p>
+
+### 🛠️ AI Tool
+<p>
+  <img src="https://img.shields.io/badge/Cursor-F7F9FC?style=for-the-badge&logo=cursor&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Claude_Code-F7F9FC?style=for-the-badge&logo=anthropic&logoColor=CC9B7A"/>
+  <img src="https://img.shields.io/badge/Google_Antigravity-F7F9FC?style=for-the-badge&logo=google&logoColor=4285F4"/>
+  <img src="https://img.shields.io/badge/NotebookLM-F7F9FC?style=for-the-badge&logo=google&logoColor=4285F4"/>
+  <img src="https://img.shields.io/badge/Codex-F7F9FC?style=for-the-badge&logo=openai&logoColor=412991"/>
+  <img src="https://img.shields.io/badge/OpenCode-F7F9FC?style=for-the-badge&logo=code&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/OpenClaw-F7F9FC?style=for-the-badge&logo=claw&logoColor=FF6B6B"/>
 </p>
 
 ### 🧠 AI & Data
 <p>
   <img src="https://img.shields.io/badge/Pandas-F7F9FC?style=for-the-badge&logo=pandas&logoColor=150458"/>
   <img src="https://img.shields.io/badge/Google_Colab-F7F9FC?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
+  <img src="https://img.shields.io/badge/vLLM-F7F9FC?style=for-the-badge&logo=lightning&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Ollama-F7F9FC?style=for-the-badge&logo=ollama&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/NVIDIA_NIM-F7F9FC?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
+  <img src="https://img.shields.io/badge/Open_WebUI-F7F9FC?style=for-the-badge&logo=web&logoColor=0066CC"/>
 </p>
 
 ### 🖥️ Environment & Tools
 <p>
   <img src="https://img.shields.io/badge/Linux-F7F9FC?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Docker-F7F9FC?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Git-F7F9FC?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-F7F9FC?style=for-the-badge&logo=github&logoColor=181717"/>
 </p>
