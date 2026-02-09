@@ -49,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atmigtnca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4C8BF5&icon_color=4C8BF5&text_color=c9d1d9" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atmigtnca&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4C8BF5&text_color=c9d1d9" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=atmigtnca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4C8BF5&icon_color=4C8BF5&text_color=c9d1d9&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atmigtnca&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4C8BF5&text_color=c9d1d9&cache_seconds=1800" height="180"/>
 </div>
 
 <div align="center">
