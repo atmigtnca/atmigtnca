@@ -60,7 +60,7 @@
 <br/>
 <hr/>
 
-## 🛠️ Technical Arsenal
+## 🛠️ Skills & Tools
 
 <div align="center">
 
