@@ -7,9 +7,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://solved.ac/profile/whdgh9173">
-    <img src="https://img.shields.io/badge/Solved.ac-whdgh9173-A680FF?style=for-the-badge&logo=solved.ac&logoColor=white&labelColor=17CE3A"/>
-  </a>
   <a href="https://huggingface.co/atmigtnca">
     <img src="https://img.shields.io/badge/Hugging_Face-atmigtnca-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=FFD21E"/>
   </a>
@@ -25,22 +22,8 @@
   <p>
     🎓 <b>JBNU Computer Science & Artificial Intelligence</b><br/>
     🤖 Interested in <b>Operating Systems</b> & <b>Cloud Computing</b><br/>
-    🧩 Hobby: <b>Solving Algorithm Problems</b>
+    🧪 Exploring <b>LLM Inference</b> & <b>AI Tooling</b>
   </p>
-</div>
-
-<br/>
-<hr/>
-
-## 🧩 Problem Solving
-
-<div align="center">
-  <a href="https://solved.ac/profile/whdgh9173">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whdgh9173" height="170"/>
-  </a>
-  <a href="https://solved.ac/profile/whdgh9173">
-    <img src="http://mazandi.herokuapp.com/api?handle=whdgh9173&theme=warm" height="170"/>
-  </a>
 </div>
 
 <br/>
@@ -55,6 +38,10 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atmigtnca&theme=tokyonight&hide_border=true&background=1a1b27&ring=4C8BF5&fire=4C8BF5&currStreakLabel=4C8BF5" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atmigtnca&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=4C8BF5&line=4C8BF5&point=c9d1d9&area=true&area_color=4C8BF5&custom_title=Contribution%20Activity" alt="activity graph"/>
 </div>
 
 <br/>
@@ -128,6 +115,18 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/atmigtnca/atmigtnca/raw/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://github.com/atmigtnca/atmigtnca/raw/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/atmigtnca/atmigtnca/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=1a1b27&titleColor=4C8BF5&textColor=c9d1d9" alt="dev joke"/>
 </div>
 
 <br/>
