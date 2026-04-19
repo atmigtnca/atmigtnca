@@ -32,16 +32,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=atmigtnca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4C8BF5&icon_color=4C8BF5&text_color=c9d1d9&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atmigtnca&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4C8BF5&text_color=c9d1d9&cache_seconds=1800" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atmigtnca&theme=tokyonight&hide_border=true&background=1a1b27&ring=4C8BF5&fire=4C8BF5&currStreakLabel=4C8BF5" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atmigtnca&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=4C8BF5&line=4C8BF5&point=c9d1d9&area=true&area_color=4C8BF5&custom_title=Contribution%20Activity" alt="activity graph"/>
+  <img src="https://raw.githubusercontent.com/atmigtnca/atmigtnca/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
 </div>
 
 <br/>
@@ -120,13 +111,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atmigtnca/atmigtnca/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=1a1b27&titleColor=4C8BF5&textColor=c9d1d9" alt="dev joke"/>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder=true&theme=tokyonight" alt="dev joke"/>
 </div>
 
 <br/>
