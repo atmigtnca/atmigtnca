@@ -38,65 +38,57 @@
 <br/>
 <hr/>
 
-## 🛠️ Skills & Tools
+## 🛠️ Stack
 
-<div align="center">
+**Languages**
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### ⚡ Languages
-<p>
-  <img src="https://img.shields.io/badge/C-F7F9FC?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/C++-F7F9FC?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/Python-F7F9FC?style=for-the-badge&logo=python&logoColor=3776AB"/>
-</p>
+**Infra & Env**
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### 🤖 AI Model
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-F7F9FC?style=for-the-badge&logo=openai&logoColor=412991"/>
-  <img src="https://img.shields.io/badge/Gemini-F7F9FC?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
-  <img src="https://img.shields.io/badge/Claude-F7F9FC?style=for-the-badge&logo=anthropic&logoColor=CC9B7A"/>
-  <img src="https://img.shields.io/badge/Grok-F7F9FC?style=for-the-badge&logo=x&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/GLM-F7F9FC?style=for-the-badge&logo=zhipu&logoColor=4285F4"/>
-</p>
+**LLM Runtime & Data**
+![vLLM](https://img.shields.io/badge/-vLLM-FFD43B?style=flat-square&logo=lightning&logoColor=black)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
-### 🛠️ AI Tool
-<p>
-  <img src="https://img.shields.io/badge/Cursor-F7F9FC?style=for-the-badge&logo=cursor&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Claude_Code-F7F9FC?style=for-the-badge&logo=anthropic&logoColor=CC9B7A"/>
-  <img src="https://img.shields.io/badge/Perplexity-F7F9FC?style=for-the-badge&logo=perplexity&logoColor=1FB8CD"/>
-  <img src="https://img.shields.io/badge/Google_Antigravity-F7F9FC?style=for-the-badge&logo=google&logoColor=4285F4"/>
-  <img src="https://img.shields.io/badge/NotebookLM-F7F9FC?style=for-the-badge&logo=google&logoColor=4285F4"/>
-  <img src="https://img.shields.io/badge/Codex-F7F9FC?style=for-the-badge&logo=openai&logoColor=412991"/>
-  <img src="https://img.shields.io/badge/OpenCode-F7F9FC?style=for-the-badge&logo=code&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/OpenClaw-F7F9FC?style=for-the-badge&logo=claw&logoColor=FF6B6B"/>
-</p>
+**Agentic Coding**
+![Claude Code](https://img.shields.io/badge/-Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 
-### 🧠 AI & Data
-<p>
-  <img src="https://img.shields.io/badge/Pandas-F7F9FC?style=for-the-badge&logo=pandas&logoColor=150458"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F7F9FC?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
-  <img src="https://img.shields.io/badge/vLLM-F7F9FC?style=for-the-badge&logo=lightning&logoColor=FFD700"/>
-  <img src="https://img.shields.io/badge/Ollama-F7F9FC?style=for-the-badge&logo=ollama&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/NVIDIA_NIM-F7F9FC?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
-  <img src="https://img.shields.io/badge/Open_WebUI-F7F9FC?style=for-the-badge&logo=web&logoColor=0066CC"/>
-</p>
+<br/>
+<hr/>
 
-### 🖥️ Environment & Tools
-<p>
-  <img src="https://img.shields.io/badge/Linux-F7F9FC?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Docker-F7F9FC?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/Git-F7F9FC?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-F7F9FC?style=for-the-badge&logo=github&logoColor=181717"/>
-</p>
+## 🚀 Projects
 
-### 🎨 Creative & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Figma-F7F9FC?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-  <img src="https://img.shields.io/badge/Notion-F7F9FC?style=for-the-badge&logo=notion&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Final_Cut_Pro-F7F9FC?style=for-the-badge&logo=apple&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Premiere_Pro-F7F9FC?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=9999FF"/>
-</p>
+> 🏗️ &nbsp; Building my first project. Coming soon.
 
-</div>
+<!--
+  📝 Template — add one bullet per project as they ship:
+
+  - 🎯 **[project-name](https://github.com/atmigtnca/project-name)** — one-line pitch (what it does, not how)
+
+  Suggested emoji palette by domain:
+    AI/agents 🤖  CLI/tooling 🛠️  systems/OS 🧩  cloud/infra ☁️
+    data/ML 📊   web/api 🌐     fun/experiment 🧪   writing 📝
+-->
+
+<br/>
+<hr/>
+
+## 🔗 Connect
+
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atmigtnca)
+[![HuggingFace](https://img.shields.io/badge/-atmigtnca-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/atmigtnca)
+[![Email](https://img.shields.io/badge/-whdgh9173%40jbnu.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:whdgh9173@jbnu.ac.kr)
 
 <br/>
 
