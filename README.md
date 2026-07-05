@@ -1,6 +1,6 @@
 ## 🧑🏻‍💻 SEO JONGHO
 
-#### CS & AI Undergraduate, @JBNU &nbsp;·&nbsp; Undergraduate Researcher, @OSLAB &nbsp;·&nbsp; Crew, @ZEROONE
+#### CS & AI Undergraduate, @JBNU &nbsp;·&nbsp; Undergraduate Researcher, @OSLAB &nbsp;·&nbsp; Crew, [@ZEROONE](https://github.com/zeroone-2025)
 
 Studying CS & AI at Jeonbuk National University (JBNU), and researching operating systems at JBNU OSLAB.<br/>
 Interested in Operating Systems & Cloud Computing
