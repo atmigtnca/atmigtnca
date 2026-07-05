@@ -40,8 +40,9 @@ Interested in Operating Systems & Cloud Computing
 ### 🛠️ &nbsp; AGENTIC CODING &nbsp; 🛠️
 
 ![agent](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![agent](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![agent](https://img.shields.io/badge/Codex-121212?style=for-the-badge&logo=openai&logoColor=white)
+![agent](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
+![agent](https://img.shields.io/badge/Hermes_Agent-5A67D8?style=for-the-badge&logo=probot&logoColor=white)
 
 &nbsp;
 
