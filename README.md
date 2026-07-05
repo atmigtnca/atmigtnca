@@ -1,8 +1,8 @@
 ## 🧑🏻‍💻 SEO JONGHO
 
-#### CS & AI Undergraduate, @JBNU
+#### Undergraduate Researcher, @JBNU OSLAB &nbsp;·&nbsp; Crew, @ZEROONE
 
-Interested in Operating Systems & Cloud Computing. Currently exploring LLM inference and AI tooling.
+CS & AI major at Jeonbuk National University. Interested in Operating Systems & Cloud Computing. Currently exploring LLM inference and AI tooling.
 
 &nbsp;
 
@@ -19,6 +19,7 @@ Interested in Operating Systems & Cloud Computing. Currently exploring LLM infer
 ![infra](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![infra](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![infra](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![infra](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 &nbsp;
 
@@ -29,6 +30,15 @@ Interested in Operating Systems & Cloud Computing. Currently exploring LLM infer
 ![llm](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![llm](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![llm](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![llm](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+&nbsp;
+
+### 🛠️ &nbsp; AGENTIC CODING &nbsp; 🛠️
+
+![agent](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![agent](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![agent](https://img.shields.io/badge/Codex-121212?style=for-the-badge&logo=openai&logoColor=white)
 
 &nbsp;
 
