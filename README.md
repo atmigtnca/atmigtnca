@@ -7,15 +7,6 @@ Interested in Operating Systems & Cloud Computing
 
 &nbsp;
 
-### 🚀 &nbsp; PROJECTS &nbsp; 🚀
-
-- 🧠 **[adhdman](https://github.com/atmigtnca/adhdman)** - Local-first execution assistant that captures scattered thoughts and turns them into actionable to-dos
-- 📋 **[cliptranslate-mac](https://github.com/atmigtnca/cliptranslate-mac)** - macOS menu bar utility that instantly shows Korean translations for copied English words
-- 🔌 **[sidep-ops](https://github.com/atmigtnca/sidep-ops)** - Unified Claude Code plugin — the best of Superpowers & Oh-My-ClaudeCode without the overlap
-- 🤝 **[zerocrew](https://github.com/atmigtnca/zerocrew)** - Co-writing business plans with a team of AI agents
-
-&nbsp;
-
 ### ☁️ &nbsp; CLOUD & INFRA &nbsp; ☁️
 
 ![infra](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
