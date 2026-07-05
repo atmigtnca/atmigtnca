@@ -2,7 +2,8 @@
 
 #### CS & AI Undergraduate, @JBNU &nbsp;·&nbsp; Undergraduate Researcher, @OSLAB &nbsp;·&nbsp; Crew, @ZEROONE
 
-Studying CS & AI at Jeonbuk National University (JBNU), and researching operating systems at JBNU OSLAB. Interested in Operating Systems & Cloud Computing — currently exploring LLM inference and AI tooling.
+Studying CS & AI at Jeonbuk National University (JBNU), and researching operating systems at JBNU OSLAB. 
+Interested in Operating Systems & Cloud Computing
 
 &nbsp;
 
