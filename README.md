@@ -7,6 +7,14 @@ Interested in Operating Systems & Cloud Computing
 
 &nbsp;
 
+### 🚀 &nbsp; NOW / NEXT / SIDE &nbsp; 🚀
+
+- **Now:** JCloud — campus OpenStack cloud, adding an AI agent to monitoring for automated reports
+- **Next:** JPUShare — GPU sharing for research labs: Apptainer jobs on Slurm, Ceph RGW as the storage backend
+- **Side:** Operating Systems · AWS Networking · CNCF Kubestronaut · TOEIC
+
+&nbsp;
+
 ### ☁️ &nbsp; CLOUD & INFRA &nbsp; ☁️
 
 ![infra](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
