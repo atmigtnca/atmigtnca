@@ -10,7 +10,7 @@ Interested in Operating Systems & Cloud Computing
 ### 🚀 &nbsp; NOW / NEXT / SIDE &nbsp; 🚀
 
 - **Now:** JCloud — campus private cloud, rebuilt on OpenStack Gazpacho with Ceph in summer 2026; now adding an AI agent to monitoring for automated reports
-- **Next:** JPUShare — GPU sharing for research labs: Apptainer jobs on Slurm, Ceph RGW as the storage backend
+- **Next:** JPUShare (in progress) — GPU sharing for research labs: Apptainer jobs on Slurm, Ceph RGW as the storage backend
 - **Side:** Operating Systems · AWS Networking · CNCF Kubestronaut · TOEIC
 
 &nbsp;
