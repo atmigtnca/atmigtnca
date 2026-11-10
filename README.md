@@ -1,4 +1,4 @@
-<p align="center"><img src="https://a.atmigtnca.dev/VEac09678h114XqKUgxWUw/header-v2.svg" width="100%" alt="SEO JONGHO"></p>
+<p align="center"><img src="https://a.atmigtnca.dev/VEac09678h114XqKUgxWUw/header-v3.svg" width="100%" alt="SEO JONGHO"></p>
 
 <h3 align="center">Interested in Cloud Computing &amp; LLM Inference Optimization</h3>
 <p align="center">Crew at <a href="https://github.com/zeroone-2025">@ZEROONE</a> · <a href="mailto:whdgh9173@jbnu.ac.kr">mail</a></p>
