@@ -1,4 +1,4 @@
-<img src="header.svg" width="100%" alt="SEO JONGHO">
+<img src="https://a.atmigtnca.dev/VEac09678h114XqKUgxWUw/header.svg" width="100%" alt="SEO JONGHO">
 
 Interested in **Cloud Computing** & **LLM Inference Optimization**.  
 Crew at [@ZEROONE](https://github.com/zeroone-2025) · [mail](mailto:whdgh9173@jbnu.ac.kr)
