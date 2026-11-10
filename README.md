@@ -3,15 +3,16 @@
 #### CS & AI Undergraduate, @JBNU &nbsp;·&nbsp; Undergraduate Researcher, @OSLAB &nbsp;·&nbsp; Crew, [@ZEROONE](https://github.com/zeroone-2025)
 
 Studying CS & AI at Jeonbuk National University (JBNU), and researching operating systems at JBNU OSLAB.<br/>
-Interested in Operating Systems & Cloud Computing
+Interested in Cloud Computing & LLM Inference Optimization
 
 &nbsp;
 
-### 🚀 &nbsp; NOW / NEXT / SIDE &nbsp; 🚀
+### 🚀 &nbsp; RECENT PROJECTS &nbsp; 🚀
 
-- **Now:** JCloud — campus private cloud, rebuilt on OpenStack Gazpacho with Ceph in summer 2026; now adding an AI agent to monitoring for automated reports
-- **Next:** JPUShare (in progress) — GPU sharing for research labs: Apptainer jobs on Slurm, Ceph RGW as the storage backend
-- **Side:** Operating Systems · AWS Networking · CNCF Kubestronaut · TOEIC
+- **JCloud** — campus private cloud, rebuilt on OpenStack Gazpacho with Ceph in summer 2026; now adding an AI agent to monitoring for automated reports
+- **JPUShare** — GPU sharing for research labs: Apptainer jobs on Slurm, with GPU scheduling by lab-level fair-share credits and automatic GPU placement
+- **dobi-superagent** *(in development)* — an all-in-one personal agent that commands a legion of AI agents to do anything I can imagine, built on Hermes Agent
+- **Side:** AWS Networking · CNCF Kubestronaut · LLM Jailbreaking
 
 &nbsp;
 
