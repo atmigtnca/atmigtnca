@@ -1,7 +1,7 @@
 <p align="center"><img src="https://a.atmigtnca.dev/VEac09678h114XqKUgxWUw/header-v4.svg" width="100%" alt="SEO JONGHO"></p>
 
 <h3 align="center">Interested in Cloud Computing &amp; LLM Inference Optimization</h3>
-<p align="center">Crew at <a href="https://oslab.jbnu.ac.kr/">@OSLAB</a> · <a href="https://github.com/zeroone-2025">@ZEROONE</a> · <a href="mailto:whdgh9173@jbnu.ac.kr">mail</a></p>
+<p align="center">Crew at <a href="https://github.com/JBNU-JEduTools">@OSLAB</a> · <a href="https://jedutools.io">@JEduTools</a> · <a href="https://github.com/zeroone-2025">@ZEROONE</a> · <a href="mailto:whdgh9173@jbnu.ac.kr">mail</a></p>
 
 &nbsp;
 
